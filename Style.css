@@ -11,7 +11,7 @@
 }
 
 #right-column {
-	width:300px;
+	width:350px;
 	float:right;
 }
 
@@ -42,4 +42,9 @@ button .flat_button {
 
 .people_cell {
  display: inline-block;
+}
+/*Velykyi O. */
+.page_counter {
+    display: inline-block;
+    font-size: 13px;
 }
