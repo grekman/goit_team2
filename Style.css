@@ -1,6 +1,8 @@
 
-#wrapper {
+body {
   background-color: #e5ebf1;
+}
+#wrapper {
   width:600px;
 
 }
@@ -8,19 +10,37 @@
 	width:180px;
 	float:left;
 	padding: 0 10px 20px;
+
+}
+
+.block {
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #FFFFFF;
+  border: solid 1px #e3e3e3;
+  border-radius: 4px;
 }
 
 #right-column {
-	width:300px;
+	width:380px;
 	float:right;
 }
 
-button .flat_button {
+.main_photo {
+  margin-bottom: 10px;
+}
+.main_photo img {
+  border-radius: 4px;
+}
+
+button.flat_button {
   color: #5e81a8;
+  padding: 5px;
 }
 
 .profile_actions .profile_action_btn {
-  width: 140
+  width: 150;
+
 
 }
 
@@ -31,14 +51,27 @@ button .flat_button {
 }
 
 .people_table .one {
+  padding: 10px;
   border-bottom:1px solid #efece7;
 }
 
 .people_cell_name {
   font:normal 10px Arial, Helvetica, sans-serif;
-  
+
 }
 
+
+.inner_funny_toys {
+  display:inline-block;
+}
+
+.page_counter {
+  font:normal 13px Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: #5e81a8;
+}
 
 .people_cell {
  display: inline-block;
