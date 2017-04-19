@@ -1,0 +1,10 @@
+#left-column {
+	width:160px;
+	float:left;
+	padding: 0 10px 20px;
+}
+
+#right-column {
+	width:200px;
+	float:right;
+}
