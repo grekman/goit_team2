@@ -16,3 +16,12 @@
 button .flat_button {
   color: #5e81a8;
 }
+
+.profile_actions .profile_action_btn {
+  width: 140
+
+}
+
+.people_cell_img {
+  border-radius: 15px;
+}
