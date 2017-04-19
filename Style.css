@@ -1,15 +1,17 @@
 
 #wrapper {
-  color:#e5ebf1;
+  background-color: #e5ebf1;
+  width:600px;
+
 }
 #left-column {
-	width:160px;
+	width:180px;
 	float:left;
 	padding: 0 10px 20px;
 }
 
 #right-column {
-	width:200px;
+	width:300px;
 	float:right;
 }
 
@@ -24,4 +26,20 @@ button .flat_button {
 
 .people_cell_img {
   border-radius: 15px;
+  width:30px;
+  height:30px;
+}
+
+.people_table .one {
+  border-bottom:1px solid #efece7;
+}
+
+.people_cell_name {
+  font:normal 10px Arial, Helvetica, sans-serif;
+  
+}
+
+
+.people_cell {
+ display: inline-block;
 }
