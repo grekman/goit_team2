@@ -1,4 +1,5 @@
 
+
 body {
   background-color: #e5ebf1;
 }
@@ -40,17 +41,16 @@ button.flat_button {
 
 .profile_actions .profile_action_btn {
   width: 150;
-
-
 }
 
 .people_cell_img {
-  border-radius: 15px;
-  width:30px;
-  height:30px;
+    border-radius: 15px;
+    width:30px;
+    height:30px;
 }
 
 .people_table .one {
+<<<<<<< HEAD
   padding: 10px;
   border-bottom:1px solid #efece7;
 }
@@ -63,6 +63,7 @@ button.flat_button {
 
 .inner_funny_toys {
   display:inline-block;
+
 }
 
 .page_counter {
@@ -74,5 +75,16 @@ a {
 }
 
 .people_cell {
- display: inline-block;
+    display: inline-block;
+}
+.radius {
+    border-radius: 15px;
+    width:30px;
+    height:30px;
+}
+.photoes_count {
+    display: inline;
+}
+.images {
+    display: inline-block;
 }
