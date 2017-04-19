@@ -1,3 +1,7 @@
+
+#wrapper {
+  color:#e5ebf1;
+}
 #left-column {
 	width:160px;
 	float:left;
@@ -7,4 +11,8 @@
 #right-column {
 	width:200px;
 	float:right;
+}
+
+button .flat_button {
+  color: #5e81a8;
 }
