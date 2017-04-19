@@ -1,4 +1,4 @@
-# goit_team2
+ # goit_team2
 ### Задача:
 Сверстать страницу согласно макету template/template.png
 Цель:
