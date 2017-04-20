@@ -74,8 +74,14 @@ a {
   color: #5e81a8;
 }
 
+.people_row {
+  display: flex;
+
+}
 .people_cell {
     display: inline-block;
+    margin: auto;
+
 }
 .radius {
     border-radius: 15px;
