@@ -50,7 +50,7 @@ button.flat_button {
 }
 
 .people_table .one {
-<<<<<<< HEAD
+
   padding: 10px;
   border-bottom:1px solid #efece7;
 }
@@ -87,4 +87,5 @@ a {
 }
 .images {
     display: inline-block;
+    width:380px;
 }
