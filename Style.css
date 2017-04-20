@@ -5,6 +5,7 @@ body {
 }
 #wrapper {
   width:600px;
+  margin: auto;
 
 }
 #left-column {
@@ -68,7 +69,6 @@ button.flat_button {
 
 .inner_funny_toys {
   display:inline-block;
-
 }
 
 .page_counter {
@@ -102,12 +102,41 @@ a {
     width:380px;
 }
 /*Vel. O. code*/
+.page_counter1 {
+    margin: auto;
+    text-decoration: none;
+    font:normal 13px Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 5px;
+}
 .inner_bottom {
+    border-top: 1px solid #e3e3e3;
     display: flex;
 }
-.page_counter {
-    margin: auto;
+.inner_top {
+    border-bottom: 1px solid #e3e3e3;
+    font:normal 11px Arial, Helvetica, sans-serif;
 }
-.page_counter {
+.page_description {
+    clear: both;
+}
+h1 {
+    font-size: 20px;
+    float: left;
+}
+.user_info {
+    font:normal 11px Arial, Helvetica, sans-serif;
+}
+.info_block {
+    display: flex;
+}
+.global_info {
+    width: 180px;
+}
+.special_info {
+    margin-top: 11px;
     text-decoration: none;
+}
+.dop {
+  margin-left: 180px;
 }
