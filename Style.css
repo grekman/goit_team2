@@ -8,7 +8,7 @@ body {
 
 }
 #left-column {
-	width:180px;
+	width:190px;
 	float:left;
 	padding: 0 10px 20px;
 
@@ -23,7 +23,7 @@ body {
 }
 
 #right-column {
-	width:380px;
+	width:390px;
 	float:right;
 }
 
