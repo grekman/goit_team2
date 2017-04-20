@@ -29,14 +29,19 @@ body {
 
 .main_photo {
   margin-bottom: 10px;
+  align-content: center;
+
 }
 .main_photo img {
   border-radius: 4px;
+  align-items: center;
 }
 
 button.flat_button {
-  color: #5e81a8;
+  color: #FFFFFF;
   padding: 5px;
+  width: 160px;
+  background: #5e81a8
 }
 
 .profile_actions .profile_action_btn {
@@ -49,14 +54,14 @@ button.flat_button {
     height:30px;
 }
 
-.people_table .one {
-
-  padding: 10px;
+.one {
+  margin-bottom: 10px;
   border-bottom:1px solid #efece7;
 }
 
-.people_cell_name {
+.people_cell_name a {
   font:normal 10px Arial, Helvetica, sans-serif;
+  text-decoration: none;
 
 }
 
@@ -75,6 +80,7 @@ a {
 }
 
 .people_row {
+  margin-bottom: 10px;
   display: flex;
 
 }
