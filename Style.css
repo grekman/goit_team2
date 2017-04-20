@@ -89,3 +89,13 @@ a {
     display: inline-block;
     width:380px;
 }
+/*Vel. O. code*/
+.inner_bottom {
+    display: flex;
+}
+.page_counter {
+    margin: auto;
+}
+.page_counter {
+    text-decoration: none;
+}
