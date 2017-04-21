@@ -2,6 +2,8 @@
 
 body {
   background-color: #e5ebf1;
+  margin: 0;
+  padding: 0;
 }
 #wrapper {
   width:600px;
@@ -28,15 +30,16 @@ body {
 	float:right;
 }
 
+.main_photo img {
+  width: 100%;
+  border-radius: 4px;
+}
+
 .main_photo {
   margin-bottom: 10px;
-  align-content: center;
 
 }
-.main_photo img {
-  border-radius: 4px;
-  align-items: center;
-}
+
 
 button.flat_button {
   color: #FFFFFF;
@@ -46,7 +49,7 @@ button.flat_button {
 }
 
 .profile_actions .profile_action_btn {
-  width: 150;
+    width: 150;
 }
 
 .people_cell_img {
